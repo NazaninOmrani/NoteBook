@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="add_note">Please Add Note</string>
+    <string name="add_first_note_txt">Add The First Note</string>
+    <string name="save_txt">Save</string>
+    <string name="cancel_txt">Cancel</string>
+    <string name="title_txt">Title</string>
+    <string name="note_txt">Note</string>
+    <string name="new_folder_txt">New Note</string>
+</resources>
